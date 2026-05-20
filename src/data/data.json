@@ -1,0 +1,246 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "name": "Order #001",
+      "description": "Purchase by Ahmad Subarjo",
+      "details": {
+        "orderId": "ORD-001",
+        "customerName": "Ahmad Subarjo",
+        "status": "Completed",
+        "totalPrice": 150000,
+        "orderDate": "2026-04-01"
+      },
+      "tags": ["Completed", "Electronics", "Retail"]
+    },
+    {
+      "id": 2,
+      "name": "Order #002",
+      "description": "Purchase by Siti Aminah",
+      "details": {
+        "orderId": "ORD-002",
+        "customerName": "Siti Aminah",
+        "status": "Pending",
+        "totalPrice": 250000,
+        "orderDate": "2026-04-02"
+      },
+      "tags": ["Pending", "Fashion", "Urgent"]
+    },
+    {
+      "id": 3,
+      "name": "Order #003",
+      "description": "Purchase by Budi Santoso",
+      "details": {
+        "orderId": "ORD-003",
+        "customerName": "Budi Santoso",
+        "status": "Cancelled",
+        "totalPrice": 50000,
+        "orderDate": "2026-04-03"
+      },
+      "tags": ["Cancelled", "Food", "Small-Order"]
+    },
+    {
+      "id": 4,
+      "name": "Order #004",
+      "description": "Purchase by Dewi Lestari",
+      "details": {
+        "orderId": "ORD-004",
+        "customerName": "Dewi Lestari",
+        "status": "Completed",
+        "totalPrice": 320000,
+        "orderDate": "2026-04-04"
+      },
+      "tags": ["Completed", "Home", "High-Value"]
+    },
+    {
+      "id": 5,
+      "name": "Order #005",
+      "description": "Purchase by Eko Prasetyo",
+      "details": {
+        "orderId": "ORD-005",
+        "customerName": "Eko Prasetyo",
+        "status": "Pending",
+        "totalPrice": 125000,
+        "orderDate": "2026-04-05"
+      },
+      "tags": ["Pending", "Gadget", "New-User"]
+    },
+    {
+      "id": 6,
+      "name": "Order #006",
+      "description": "Purchase by Farah Quinn",
+      "details": {
+        "orderId": "ORD-006",
+        "customerName": "Farah Quinn",
+        "status": "Completed",
+        "totalPrice": 450000,
+        "orderDate": "2026-04-06"
+      },
+      "tags": ["Completed", "Kitchen", "Premium"]
+    },
+    {
+      "id": 7,
+      "name": "Order #007",
+      "description": "Purchase by Guntur Bumi",
+      "details": {
+        "orderId": "ORD-007",
+        "customerName": "Guntur Bumi",
+        "status": "Completed",
+        "totalPrice": 95000,
+        "orderDate": "2026-04-07"
+      },
+      "tags": ["Completed", "Tool", "Sale"]
+    },
+    {
+      "id": 8,
+      "name": "Order #008",
+      "description": "Purchase by Hany Safitri",
+      "details": {
+        "orderId": "ORD-008",
+        "customerName": "Hany Safitri",
+        "status": "Pending",
+        "totalPrice": 210000,
+        "orderDate": "2026-04-08"
+      },
+      "tags": ["Pending", "Health", "Regular"]
+    },
+    {
+      "id": 9,
+      "name": "Order #009",
+      "description": "Purchase by Indra Wijaya",
+      "details": {
+        "orderId": "ORD-009",
+        "customerName": "Indra Wijaya",
+        "status": "Cancelled",
+        "totalPrice": 300000,
+        "orderDate": "2026-04-09"
+      },
+      "tags": ["Cancelled", "Travel", "Refund-Pending"]
+    },
+    {
+      "id": 10,
+      "name": "Order #010",
+      "description": "Purchase by Joko Anwar",
+      "details": {
+        "orderId": "ORD-010",
+        "customerName": "Joko Anwar",
+        "status": "Completed",
+        "totalPrice": 550000,
+        "orderDate": "2026-04-10"
+      },
+      "tags": ["Completed", "Books", "Collector"]
+    },
+    { "id": 11, "name": "Order #011", "description": "Purchase by Kartika", "details": { "orderId": "ORD-011", "customerName": "Kartika Putri", "status": "Pending", "totalPrice": 175000, "orderDate": "2026-04-11" }, "tags": ["Pending"] },
+    { "id": 12, "name": "Order #012", "description": "Purchase by Lukas", "details": { "orderId": "ORD-012", "customerName": "Lukas Graham", "status": "Completed", "totalPrice": 89000, "orderDate": "2026-04-12" }, "tags": ["Completed"] },
+    { "id": 13, "name": "Order #013", "description": "Purchase by Maya", "details": { "orderId": "ORD-013", "customerName": "Maya Septha", "status": "Completed", "totalPrice": 135000, "orderDate": "2026-04-13" }, "tags": ["Completed"] },
+    { "id": 14, "name": "Order #014", "description": "Purchase by Nanda", "details": { "orderId": "ORD-014", "customerName": "Nanda Arsyinta", "status": "Cancelled", "totalPrice": 420000, "orderDate": "2026-04-14" }, "tags": ["Cancelled"] },
+    { "id": 15, "name": "Order #015", "description": "Purchase by Oki", "details": { "orderId": "ORD-015", "customerName": "Oki Setiana", "status": "Pending", "totalPrice": 600000, "orderDate": "2026-04-15" }, "tags": ["Pending"] },
+    { "id": 16, "name": "Order #016", "description": "Purchase by Putra", "details": { "orderId": "ORD-016", "customerName": "Putra Siregar", "status": "Completed", "totalPrice": 275000, "orderDate": "2026-04-16" }, "tags": ["Completed"] },
+    { "id": 17, "name": "Order #017", "description": "Purchase by Qory", "details": { "orderId": "ORD-017", "customerName": "Qorygore", "status": "Completed", "totalPrice": 120000, "orderDate": "2026-04-17" }, "tags": ["Completed"] },
+    { "id": 18, "name": "Order #018", "description": "Purchase by Raffi", "details": { "orderId": "ORD-018", "customerName": "Raffi Ahmad", "status": "Pending", "totalPrice": 1500000, "orderDate": "2026-04-18" }, "tags": ["Pending", "Wholesale"] },
+    { "id": 19, "name": "Order #019", "description": "Purchase by Sule", "details": { "orderId": "ORD-019", "customerName": "Sule Sutisna", "status": "Completed", "totalPrice": 340000, "orderDate": "2026-04-19" }, "tags": ["Completed"] },
+    { "id": 20, "name": "Order #020", "description": "Purchase by Titi", "details": { "orderId": "ORD-020", "customerName": "Titi Kamal", "status": "Cancelled", "totalPrice": 220000, "orderDate": "2026-04-20" }, "tags": ["Cancelled"] },
+    { "id": 21, "name": "Order #021", "description": "Purchase by Uus", "details": { "orderId": "ORD-021", "customerName": "Uus Biasa", "status": "Completed", "totalPrice": 110000, "orderDate": "2026-04-21" }, "tags": ["Completed"] },
+    { "id": 22, "name": "Order #022", "description": "Purchase by Vina", "details": { "orderId": "ORD-022", "customerName": "Vina Panduwinata", "status": "Pending", "totalPrice": 500000, "orderDate": "2026-04-22" }, "tags": ["Pending"] },
+    { "id": 23, "name": "Order #023", "description": "Purchase by Wanda", "details": { "orderId": "ORD-023", "customerName": "Wanda Hamidah", "status": "Completed", "totalPrice": 260000, "orderDate": "2026-04-22" }, "tags": ["Completed"] },
+    { "id": 24, "name": "Order #024", "description": "Purchase by Xena", "details": { "orderId": "ORD-024", "customerName": "Xena Hercules", "status": "Completed", "totalPrice": 190000, "orderDate": "2026-04-23" }, "tags": ["Completed"] },
+    { "id": 25, "name": "Order #025", "description": "Purchase by Yuni", "details": { "orderId": "ORD-025", "customerName": "Yuni Shara", "status": "Pending", "totalPrice": 430000, "orderDate": "2026-04-23" }, "tags": ["Pending"] },
+    { "id": 26, "name": "Order #026", "description": "Purchase by Zaskia", "details": { "orderId": "ORD-026", "customerName": "Zaskia Mecca", "status": "Completed", "totalPrice": 315000, "orderDate": "2026-04-24" }, "tags": ["Completed"] },
+    { "id": 27, "name": "Order #027", "description": "Purchase by Andhika", "details": { "orderId": "ORD-027", "customerName": "Andhika Pratama", "status": "Cancelled", "totalPrice": 75000, "orderDate": "2026-04-24" }, "tags": ["Cancelled"] },
+    { "id": 28, "name": "Order #028", "description": "Purchase by Baim", "details": { "orderId": "ORD-028", "customerName": "Baim Wong", "status": "Completed", "totalPrice": 800000, "orderDate": "2026-04-25" }, "tags": ["Completed"] },
+    { "id": 29, "name": "Order #029", "description": "Purchase by Cinta", "details": { "orderId": "ORD-029", "customerName": "Cinta Laura", "status": "Pending", "totalPrice": 950000, "orderDate": "2026-04-25" }, "tags": ["Pending"] },
+    { "id": 30, "name": "Order #030", "description": "Purchase by Deddy", "details": { "orderId": "ORD-030", "customerName": "Deddy Corbuzier", "status": "Completed", "totalPrice": 1200000, "orderDate": "2026-04-26" }, "tags": ["Completed", "VIP"] }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Ahmad Subarjo",
+      "description": "Active Customer from Jakarta",
+      "details": {
+        "customerId": "CUST-001",
+        "customerName": "Ahmad Subarjo",
+        "email": "ahmad@example.com",
+        "phone": "081234567890",
+        "loyalty": "Gold"
+      },
+      "tags": ["Gold-Member", "Priority", "Jakarta"]
+    },
+    {
+      "id": 2,
+      "name": "Siti Aminah",
+      "description": "Active Customer from Bandung",
+      "details": {
+        "customerId": "CUST-002",
+        "customerName": "Siti Aminah",
+        "email": "siti@example.com",
+        "phone": "081234567891",
+        "loyalty": "Silver"
+      },
+      "tags": ["Silver-Member", "Bandung"]
+    },
+    {
+      "id": 3,
+      "name": "Budi Santoso",
+      "description": "Occasional Customer",
+      "details": {
+        "customerId": "CUST-003",
+        "customerName": "Budi Santoso",
+        "email": "budi@example.com",
+        "phone": "081234567892",
+        "loyalty": "Bronze"
+      },
+      "tags": ["Bronze-Member", "Surabaya"]
+    },
+    {
+      "id": 4,
+      "name": "Dewi Lestari",
+      "description": "High Frequency Shopper",
+      "details": {
+        "customerId": "CUST-004",
+        "customerName": "Dewi Lestari",
+        "email": "dewi@example.com",
+        "phone": "081234567893",
+        "loyalty": "Gold"
+      },
+      "tags": ["Gold-Member", "Medan"]
+    },
+    {
+      "id": 5,
+      "name": "Eko Prasetyo",
+      "description": "New Registered Member",
+      "details": {
+        "customerId": "CUST-005",
+        "customerName": "Eko Prasetyo",
+        "email": "eko@example.com",
+        "phone": "081234567894",
+        "loyalty": "Silver"
+      },
+      "tags": ["Silver-Member", "Jogja"]
+    },
+    { "id": 6, "name": "Farah Quinn", "description": "Member", "details": { "customerId": "CUST-006", "customerName": "Farah Quinn", "email": "farah@example.com", "phone": "081234567895", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 7, "name": "Guntur Bumi", "description": "Member", "details": { "customerId": "CUST-007", "customerName": "Guntur Bumi", "email": "guntur@example.com", "phone": "081234567896", "loyalty": "Bronze" }, "tags": ["Bronze"] },
+    { "id": 8, "name": "Hany Safitri", "description": "Member", "details": { "customerId": "CUST-008", "customerName": "Hany Safitri", "email": "hany@example.com", "phone": "081234567897", "loyalty": "Silver" }, "tags": ["Silver"] },
+    { "id": 9, "name": "Indra Wijaya", "description": "Member", "details": { "customerId": "CUST-009", "customerName": "Indra Wijaya", "email": "indra@example.com", "phone": "081234567898", "loyalty": "Bronze" }, "tags": ["Bronze"] },
+    { "id": 10, "name": "Joko Anwar", "description": "Member", "details": { "customerId": "CUST-010", "customerName": "Joko Anwar", "email": "joko@example.com", "phone": "081234567899", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 11, "name": "Kartika Putri", "description": "Member", "details": { "customerId": "CUST-011", "customerName": "Kartika Putri", "email": "kartika@example.com", "phone": "081234567800", "loyalty": "Silver" }, "tags": ["Silver"] },
+    { "id": 12, "name": "Lukas Graham", "description": "Member", "details": { "customerId": "CUST-012", "customerName": "Lukas Graham", "email": "lukas@example.com", "phone": "081234567801", "loyalty": "Bronze" }, "tags": ["Bronze"] },
+    { "id": 13, "name": "Maya Septha", "description": "Member", "details": { "customerId": "CUST-013", "customerName": "Maya Septha", "email": "maya@example.com", "phone": "081234567802", "loyalty": "Silver" }, "tags": ["Silver"] },
+    { "id": 14, "name": "Nanda Arsyinta", "description": "Member", "details": { "customerId": "CUST-014", "customerName": "Nanda Arsyinta", "email": "nanda@example.com", "phone": "081234567803", "loyalty": "Bronze" }, "tags": ["Bronze"] },
+    { "id": 15, "name": "Oki Setiana", "description": "Member", "details": { "customerId": "CUST-015", "customerName": "Oki Setiana", "email": "oki@example.com", "phone": "081234567804", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 16, "name": "Putra Siregar", "description": "Member", "details": { "customerId": "CUST-016", "customerName": "Putra Siregar", "email": "putra@example.com", "phone": "081234567805", "loyalty": "Silver" }, "tags": ["Silver"] },
+    { "id": 17, "name": "Qorygore", "description": "Member", "details": { "customerId": "CUST-017", "customerName": "Qorygore", "email": "qory@example.com", "phone": "081234567806", "loyalty": "Bronze" }, "tags": ["Bronze"] },
+    { "id": 18, "name": "Raffi Ahmad", "description": "Member", "details": { "customerId": "CUST-018", "customerName": "Raffi Ahmad", "email": "raffi@example.com", "phone": "081234567807", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 19, "name": "Sule Sutisna", "description": "Member", "details": { "customerId": "CUST-019", "customerName": "Sule Sutisna", "email": "sule@example.com", "phone": "081234567808", "loyalty": "Silver" }, "tags": ["Silver"] },
+    { "id": 20, "name": "Titi Kamal", "description": "Member", "details": { "customerId": "CUST-020", "customerName": "Titi Kamal", "email": "titi@example.com", "phone": "081234567809", "loyalty": "Bronze" }, "tags": ["Bronze"] },
+    { "id": 21, "name": "Uus Biasa", "description": "Member", "details": { "customerId": "CUST-021", "customerName": "Uus Biasa", "email": "uus@example.com", "phone": "081234567810", "loyalty": "Bronze" }, "tags": ["Bronze"] },
+    { "id": 22, "name": "Vina Panduwinata", "description": "Member", "details": { "customerId": "CUST-022", "customerName": "Vina Panduwinata", "email": "vina@example.com", "phone": "081234567811", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 23, "name": "Wanda Hamidah", "description": "Member", "details": { "customerId": "CUST-023", "customerName": "Wanda Hamidah", "email": "wanda@example.com", "phone": "081234567812", "loyalty": "Silver" }, "tags": ["Silver"] },
+    { "id": 24, "name": "Xena Hercules", "description": "Member", "details": { "customerId": "CUST-024", "customerName": "Xena Hercules", "email": "xena@example.com", "phone": "081234567813", "loyalty": "Silver" }, "tags": ["Silver"] },
+    { "id": 25, "name": "Yuni Shara", "description": "Member", "details": { "customerId": "CUST-025", "customerName": "Yuni Shara", "email": "yuni@example.com", "phone": "081234567814", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 26, "name": "Zaskia Mecca", "description": "Member", "details": { "customerId": "CUST-026", "customerName": "Zaskia Mecca", "email": "zaskia@example.com", "phone": "081234567815", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 27, "name": "Andhika Pratama", "description": "Member", "details": { "customerId": "CUST-027", "customerName": "Andhika Pratama", "email": "andhika@example.com", "phone": "081234567816", "loyalty": "Silver" }, "tags": ["Silver"] },
+    { "id": 28, "name": "Baim Wong", "description": "Member", "details": { "customerId": "CUST-028", "customerName": "Baim Wong", "email": "baim@example.com", "phone": "081234567817", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 29, "name": "Cinta Laura", "description": "Member", "details": { "customerId": "CUST-029", "customerName": "Cinta Laura", "email": "cinta@example.com", "phone": "081234567818", "loyalty": "Gold" }, "tags": ["Gold"] },
+    { "id": 30, "name": "Deddy Corbuzier", "description": "Member", "details": { "customerId": "CUST-030", "customerName": "Deddy Corbuzier", "email": "deddy@example.com", "phone": "081234567819", "loyalty": "Gold" }, "tags": ["Gold", "Influencer"] }
+  ]
+}
